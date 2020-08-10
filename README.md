@@ -1,1 +1,1 @@
-# mssc-beer-service
+# spring-recipe-app
